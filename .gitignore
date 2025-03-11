@@ -1,0 +1,34 @@
+# Ignore Python bytecode files (even if they don't exist now)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environments (since dependencies can be installed with Poetry)
+.env
+.venv/
+env/
+venv/
+
+# Ignore dependency caches
+pip-wheel-metadata/
+*.egg-info/
+
+# Ignore build and distribution files
+dist/
+build/
+
+# Ignore logs and databases
+*.log
+*.sqlite3
+
+# Ignore IDE/editor settings
+.vscode/
+.idea/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore Git-related files (Git itself handles this)
+.git/

@@ -1,0 +1,73 @@
+[
+    {
+        "title": "Nanomaterial Innovations and Machine Learning in Gas Sensing Technologies for Real-Time Health Diagnostics.",
+        "abstract": "{'sub': ['2', '3'], '#text': 'Breath sensors represent a frontier in noninvasive diagnostics, leveraging the detection of volatile organic compounds (VOCs) in exhaled breath for real-time health monitoring. This review highlights recent advancements in breath-sensing technologies, with a focus on the innovative materials driving their enhanced sensitivity and selectivity. Polymers, carbon-based materials like graphene and carbon nanotubes, and metal oxides such as ZnO and SnO have demonstrated significant potential in detecting biomarkers related to diseases including diabetes, liver/kidney dysfunction, asthma, and gut health. The structural and operational principles of these materials are examined, revealing how their unique properties contribute to the detection of key respiratory gases like acetone, ammonia (NH), hydrogen sulfide, and nitric oxide. The complexity of breath samples is addressed through the integration of machine learning (ML) algorithms, including convolutional neural networks (CNNs) and support vector machines (SVMs), which optimize data interpretation and diagnostic accuracy. In addition to sensing VOCs, these devices are capable of monitoring parameters such as airflow, temperature, and humidity, essential for comprehensive breath analysis. This review also explores the expanding role of artificial intelligence (AI) in transforming wearable breath sensors into sophisticated tools for personalized health diagnostics, enabling real-time disease detection and monitoring. Together, advances in sensor materials and ML-based analytics present a promising platform for the future of individualized, noninvasive healthcare.'}",
+        "journal": "ACS sensors",
+        "authors": [
+            "Harun-Or-Rashid Md",
+            "Mirzaei Sahar",
+            "Nasiri Noushin"
+        ]
+    },
+    {
+        "title": "Pharmacological Countermeasures for Long-Duration Space Missions: Addressing Cardiovascular Challenges and Advancing Space-Adapted Healthcare.",
+        "abstract": "Future long-duration crewed space missions beyond Low Earth Orbit (LEO) will bring new healthcare challenges for astronauts for which pharmacological countermeasures (pharmacological countermeasures) are crucial. This paper highlights current pharmacological countermeasures challenges described in the ESA SciSpacE Roadmap, with a focus on the cardiovascular system as a model to demonstrate the potential implication of the challenges and recommendations. New pharmacological approaches and procedures need to be adapted to spaceflight (spaceflight) conditions, including ethical and reglementary considerations. Potential strategies include combining pharmacological biomarkers such as pharmacogenomics with therapeutic drug monitoring, advancing microsampling techniques, and implementing a pharmacovigilance system to gain deep insights into pharmacokinetics/pharmacodynamics (PK/PD) spaceflight alteration on drug exposure. Emerging therapeutic approaches (such as long-term regimens) or manufacturing drugs in the space environment, can address specific issues related to drug storage and stability. The integration of biobanks and innovative technologies like organoids and organ-on-a-chip, artificial intelligence (AI), including machine learning will further enhance PK modelling leading to personalized treatments. These innovative pharmaceutical tools will also enable reciprocal game-changing healthcare developments to be made on Earth as well as in space and are essential to ensure space explorers receive safe effective pharmaceutical care.",
+        "journal": "European journal of pharmaceutical sciences : official journal of the European Federation for Pharmaceutical Sciences",
+        "authors": [
+            "Derobertmasure Audrey",
+            "Toh Li Shean",
+            "Wotring Virginia",
+            "Williams Philip M",
+            "Morbidelli Lucia",
+            "Stingl Julia",
+            "Vinken Mathieu",
+            "Ramadan Raghda",
+            "Chhun Stephanie",
+            "Boutouyrie Pierre"
+        ]
+    },
+    {
+        "title": "Fetal Birth Weight Prediction in the Third Trimester: Retrospective Cohort Study and Development of an Ensemble Model.",
+        "abstract": "Accurate third-trimester birth weight prediction is vital for reducing adverse outcomes, and machine learning (ML) offers superior precision over traditional ultrasound methods. This study aims to develop an ML model on the basis of clinical big data for accurate prediction of birth weight in the third trimester of pregnancy, which can help reduce adverse maternal and fetal outcomes. From January 1, 2018 to December 31, 2019, a retrospective cohort study involving 16,655 singleton live births without congenital anomalies (>28 weeks of gestation) was conducted in a tertiary first-class hospital in Shanghai. The initial set of data was divided into a train set for algorithm development and a test set on which the algorithm was divided in a ratio of 4:1. We extracted maternal and neonatal delivery outcomes, as well as parental demographics, obstetric clinical data, and sonographic fetal biometry, from electronic medical records. A total of 5 basic ML algorithms, including Ridge, SVM, Random Forest, extreme gradient boosting (XGBoost), and Multi-Layer Perceptron, were used to develop the prediction model, which was then averaged into an ensemble learning model. The models were compared using accuracy, mean squared error, root mean squared error, and mean absolute error. International Peace Maternity and Child Health Hospital's Research Ethics Committee granted ethical approval for the usage of patient information (GKLW2021-20). Train and test sets contained a total of 13,324 and 3331 cases, respectively. From a total of 59 variables, we selected 17 variables that were readily available for the \"few feature model,\" which achieved high predictive power with an accuracy of 81% and significantly exceeded ultrasound formula methods. In addition, our model maintained superior performance for low birth weight and macrosomic fetal populations. Our research investigated an innovative artificial intelligence model for predicting fetal birth weight and maximizing health care resource use. In the era of big data, our model improves maternal and fetal outcomes and promotes precision medicine.",
+        "journal": "JMIR pediatrics and parenting",
+        "authors": [
+            "Gao Jing",
+            "Jie Xu",
+            "Yao Yujun",
+            "Xue Jingdong",
+            "Chen Lei",
+            "Chen Ruiyao",
+            "Chen Jiayuan",
+            "Cheng Weiwei"
+        ]
+    },
+    {
+        "title": "Deep learning-based prediction of atrial fibrillation from polar transformed time-frequency electrocardiogram.",
+        "abstract": "Portable and wearable electrocardiogram (ECG) devices are increasingly utilized in healthcare for monitoring heart rhythms and detecting cardiac arrhythmias or other heart conditions. The integration of ECG signal visualization with AI-based abnormality detection empowers users to independently and confidently assess their physiological signals. In this study, we investigated a novel method for visualizing ECG signals using polar transformations of short-time Fourier transform (STFT) spectrograms and evaluated the performance of deep convolutional neural networks (CNNs) in predicting atrial fibrillation from these polar transformed spectrograms. The ECG data, which are available from the PhysioNet/CinC Challenge 2017, were categorized into four classes: normal sinus rhythm, atrial fibrillation, other rhythms, and noise. Preprocessing steps included ECG signal filtering, STFT-based spectrogram generation, and reverse polar transformation to generate final polar spectrogram images. These images were used as inputs for deep CNN models, where three pre-trained deep CNNs were used for comparisons. The results demonstrated that deep learning-based predictions using polar transformed spectrograms were comparable to existing methods. Furthermore, the polar transformed images offer a compact and intuitive representation of rhythm characteristics in ECG recordings, highlighting their potential for wearable applications.",
+        "journal": "PloS one",
+        "authors": [
+            "Kwon Daehyun",
+            "Kang Hanbit",
+            "Lee Dongwoo",
+            "Kim Yoon-Chul"
+        ]
+    },
+    {
+        "title": "Connectome-Based Predictive Modeling of PTSD Development Among Recent Trauma Survivors.",
+        "abstract": "The weak link between subjective symptom-based diagnostics for posttraumatic psychopathology and objective neurobiological indices hinders the development of effective personalized treatments. To identify early neural networks associated with posttraumatic stress disorder (PTSD) development among recent trauma survivors. This prognostic study used data from the Neurobehavioral Moderators of Posttraumatic Disease Trajectories (NMPTDT) large-scale longitudinal neuroimaging dataset of recent trauma survivors. The NMPTDT study was conducted from January 20, 2015, to March 11, 2020, and included adult civilians who were admitted to a general hospital emergency department in Israel and screened for early PTSD symptoms indicative of chronic PTSD risk. Enrolled participants completed comprehensive clinical assessments and functional magnetic resonance imaging (fMRI) scans at 1, 6, and 14 months post trauma. Data were analyzed from September 2023 to March 2024. Traumatic events included motor vehicle incidents, physical assaults, robberies, hostilities, electric shocks, fires, drownings, work accidents, terror attacks, or large-scale disasters. Connectome-based predictive modeling (CPM), a whole-brain machine learning approach, was applied to resting-state and task-based fMRI data collected at 1 month post trauma. The primary outcome measure was PTSD symptom severity across the 3 time points, assessed with the Clinician-Administered PTSD Scale for DSM-5 (CAPS-5). Secondary outcomes included Diagnostic and Statistical Manual of Mental Disorders (Fifth Edition) (DSM-5) PTSD symptom clusters (intrusion, avoidance, negative alterations in mood and cognition, hyperarousal). A total of 162 recent trauma survivors (mean [SD] age, 33.9 [11.5] years; 80 women [49.4%] and 82 men [50.6%]) were included at 1 month post trauma. Follow-up assessments were completed by 136 survivors (84.0%) at 6 months and by 133 survivors (82.1%) at 14 months post trauma. Among the 162 recent trauma survivors, CPM significantly predicted PTSD severity at 1 month (\u03c1 = 0.18, P < .001) and 14 months (\u03c1 = 0.24, P < .001) post trauma, but not at 6 months post trauma (\u03c1 = 0.03, P = .39). The most predictive edges at 1 month included connections within and between the anterior default mode, motor sensory, and salience networks. These networks, with the additional contribution of the central executive and visual networks, were predictive of symptoms at 14 months. CPM predicted avoidance and negative alterations in mood and cognition at 1 month, but it predicted intrusion and hyperarousal symptoms at 14 months. In this prognostic study of recent trauma survivors, individual differences in large-scale neural networks shortly after trauma were associated with variability in PTSD symptom trajectories over the first year following trauma exposure. These findings suggest that CPM may identify potential targets for interventions.",
+        "journal": "JAMA network open",
+        "authors": [
+            "Ben-Zion Ziv",
+            "Simon Alexander J",
+            "Rosenblatt Matthew",
+            "Korem Nachshon",
+            "Duek Or",
+            "Liberzon Israel",
+            "Shalev Arieh Y",
+            "Hendler Talma",
+            "Levy Ifat",
+            "Harpaz-Rotem Ilan",
+            "Scheinost Dustin"
+        ]
+    }
+]
