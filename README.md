@@ -32,7 +32,7 @@ pubmed_papers/
 
     3.1.Clone the repository:
     
-        git clone https://github.com/yourusername/pubmed-papers-fetcher.git
+        git clone https://github.com/Adwaitha0/PubMed_Project.git
         
     3.2.cd pubmed-papers-fetcher
     
